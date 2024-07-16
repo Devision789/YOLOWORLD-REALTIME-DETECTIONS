@@ -21,8 +21,8 @@ YOLO-World là một mô hình phát hiện đối tượng thời gian thực k
 
 1. **Cloning the Repository**
     ```sh
-    git clone https://github.com/yourusername/yoloworld-object-detection.git
-    cd yoloworld-object-detection
+    git clone https://github.com/Devision789/YOLOWORLD-REALTIME-DETECTIONS
+
     ```
 
 2. **Cài Đặt Các Gói Yêu Cầu**
